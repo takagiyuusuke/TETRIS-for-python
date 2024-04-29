@@ -1,3 +1,4 @@
+始めるにはkeyboardをインストールしてください。
 ```bash
 pip install keyboard
 
